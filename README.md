@@ -1,7 +1,5 @@
 # APPLE-STOCK-PREDICTION-WITH-NLP.
 
-# Apple Stock Price Prediction Project
-
 This notebook demonstrates a basic stock price prediction analysis for Apple (AAPL) using historical data fetched with `yfinance`.
 
 ## Project Overview
